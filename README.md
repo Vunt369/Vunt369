@@ -4,8 +4,8 @@
 <div align='center'>
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-Nguyen%20Tuan%20Vu-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/devmrvu113/)
-  [![Mail](https://img.shields.io/badge/Facebook-Phan%20Xu%C3%A2n%20Quang-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/ntuanvu2002/)
-  [![Mail](https://img.shields.io/badge/Gmail-phanxuanquang2@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ngtuanvu113@gmail.com)
+  [![Mail](https://img.shields.io/badge/Facebook-Nguyen%20Tuan%20Vu-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/ntuanvu2002/)
+  [![Mail](https://img.shields.io/badge/Gmail-ngtuanvu113@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ngtuanvu113@gmail.com)
   
 </div>
 
