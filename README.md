@@ -9,8 +9,7 @@
   
 </div>
 
-<h1 align='left' style='margin: 20px;' ><samp><strong>Who I Am</strong></samp></h1>
-
+# 🚀 About Me
 <p align='left'>
 
 I am a Vietnamese software engineer who likes daily life optimization using technology, and have a deep passionate for crafting robust and user-centric solutions. 
@@ -20,17 +19,10 @@ Driven by the passion to make meaningful differences, I do want to craft solutio
 I am always open to exciting job opportunities and innovative projects in the areas of generative AI and SaaS development. You are welcome to reach out to me through the contact details listed above for further discussion.
 </p>
 
-<h1 align='left'><samp><strong>What I Have Achieved</strong></samp></h1>
-
-<a href="#">![Achievements](https://github-readme-stats.vercel.app/api?username=phanxuanquang&theme=holi&count_private=true&hide_border=true&rank_icon=github&line_height=20)</a>
-<a href="#">![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phanxuanquang&layout=compact&theme=holi&count_private=true&hide_border=true)</a>
-
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/C%23-8A2BE2) ![Java](https://img.shields.io/badge/Java-orange) ![C++](https://img.shields.io/badge/C%2B%2B-purple) ![C](https://img.shields.io/badge/C-blue)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Vunt369&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vunt369&theme=radical&hide_border=false)<br/>
+# 💻 Tech Stack
+![SKILLS](https://skills.syvixor.com/api/icons?i=c,cpp,csharp,dotnet,amazonwebservices,docker,firebase,html,javascript,css,googlecloud,visualstudio,visualstudiocode,sqlserver)
+# 📊 GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Vunt369&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vunt369&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Vunt369&icon=0&color=0)](https://visitcount.itsvg.in)
